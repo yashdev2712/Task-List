@@ -1,9 +1,15 @@
-# React + Vite
+# Task-List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple Task - List app built using React. It allows users to store, edit and delete task .
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Add-task
+- Edit functionality
+- Delete functionality
+
+## Technologies Used
+
+- React
+
+
+
